@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#jokes {
+  text-align: center;
+  background-color: beige;
+}
